@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saptarshi.saha0@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saptarsi96](https://github.com/saptarsi96)
+- 👨‍💻 All of my projects are available at [saptarsi96](https://github.com/saptarsi96)
 
 
 <p align="left">
