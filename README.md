@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **saptarshi.saha0@gmail.com**
 
+
+- 👨‍💻 All of my projects are available at [saptarsi96](https://github.com/saptarsi96)
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saptarsi29/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saptarsi29/" height="30" width="40" /></a>
