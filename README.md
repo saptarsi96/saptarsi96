@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarsi96&label=Profile%20views&color=0e75b6&style=flat" alt="saptarsi96" /> </p>
 
-- 🌱 I’m currently learning **Quantum Computing, IoT Security, Hyperledger Fabric**
+- 🌱 I’m currently learning **Quantum Computing, IOT Security, Hyperledger Fabric**
 
 - 💬 Ask me about **python, devops, unix, c++**
 
